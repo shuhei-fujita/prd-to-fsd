@@ -50,3 +50,7 @@ Product Requirements Document (PRD)
 
 Feature Specification Document（FSD）
 - 機能仕様書
+
+## PRD to FSD壁打ち用NotbookLM
+
+https://notebooklm.google.com/notebook/48b90c32-0621-4e81-80c6-10b81bb7a5ef
